@@ -1,0 +1,2 @@
+# GitHub Pages: publicar la carpeta .well-known (Android la pide para verificar la app SUDOMI)
+include: [".well-known"]
