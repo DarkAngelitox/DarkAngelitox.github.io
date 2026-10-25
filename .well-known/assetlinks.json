@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.darkangelitox.sudomi.sudoku",
+        "sha256_cert_fingerprints": ["2C:5B:42:7D:10:8F:53:DA:54:BA:D7:38:67:68:5A:68:64:1C:37:8D:74:05:9A:A6:89:2B:48:3D:46:F2:48:DD"]
+      }
+    }]
